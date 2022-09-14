@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/result-school-react-app/static/css/main.77f5c228.css",
+    "main.js": "/result-school-react-app/static/js/main.a6414c90.js",
+    "index.html": "/result-school-react-app/index.html",
+    "main.77f5c228.css.map": "/result-school-react-app/static/css/main.77f5c228.css.map",
+    "main.a6414c90.js.map": "/result-school-react-app/static/js/main.a6414c90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77f5c228.css",
+    "static/js/main.a6414c90.js"
+  ]
+}
